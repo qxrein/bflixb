@@ -6,5 +6,6 @@
 !src/
 !blix
 !examples/
+!flix.toml
 
 !LICENSE
