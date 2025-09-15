@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!.nix
+!flake.lock
+!src/
+!blix
+
+!LICENSE
